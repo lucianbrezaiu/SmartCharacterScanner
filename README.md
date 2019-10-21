@@ -9,8 +9,8 @@ consolă și rulez:
 npm run serve
 
 -> server - reprezintă componenta server a aplicației realizată în Flask și Python. Aplicația trebuie să aibă următoarele fișiere:
-	1. din dllFactory are nevoie de ./build/bin/Debug/imageProcessingd.dll.
-	2. din neuralNetwork are nevoie ./model.json și ./weights.h5
+	\n 1. din dllFactory are nevoie de ./build/bin/Debug/imageProcessingd.dll.
+	\n 2. din neuralNetwork are nevoie ./model.json și ./weights.h5
 	Pentru a porni serverul, intru in folderul server, deschid o consolă și rulez:
 
 .\env\Scripts\activate
