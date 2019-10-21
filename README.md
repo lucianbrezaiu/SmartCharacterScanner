@@ -9,7 +9,8 @@ consolă și rulez:
 
 npm run serve
 
--> server - reprezintă componenta server a aplicației realizată în Flask și Python. Aplicația trebuie să aibă următoarele fișiere:
+-> server - reprezintă componenta server a aplicației realizată în Flask și Python. Aplicația trebuie să aibă următoarele fișiere
+din ocrFactory:
 
 1. din dllFactory are nevoie de ./build/bin/Debug/imageProcessingd.dll
 2. din neuralNetwork are nevoie ./model.json și ./weights.h5
